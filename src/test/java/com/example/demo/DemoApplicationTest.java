@@ -9,6 +9,6 @@ class DemoApplicationTest {
 
     @Test
     void dodaj() {
-    assertEquals(103,DemoApplication.dodaj(5,5));
+    assertEquals(10,DemoApplication.dodaj(5,5));
     }
 }
